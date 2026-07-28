@@ -1,15 +1,13 @@
 <h1 align="center">👋 Hi, I'm Beatrice Balzarini</h1>
-<h3 align="center">Cybersecurity • Data Protection & Privacy • Aspiring Security Consultant</h3>
+<h3 align="center">Cybersecurity • Data Protection & Privacy • Cyber Risk Assessment</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Computer Science MSc student** at the **University of Trento**,  
-specializing in **Cybersecurity** with a strong interest in **data protection and privacy**.  
+I'm a **Computer Science MSc student** at the **University of Trento**, specializing in **Cybersecurity** with a strong interest in **data protection, privacy, and risk management**.  
 
-I am eager to apply technical skills to **real-world consultancy challenges**,  
-working at the intersection of **security, compliance, and risk assessment**.  
+I am eager to apply technical skills to **real-world consultancy challenges**, working at the intersection of **security, compliance, and cyber risk assessment**.  
 My background combines hands-on experience with **distributed systems**, **automation**, and collaborative project work.
 
 ---
@@ -17,7 +15,8 @@ My background combines hands-on experience with **distributed systems**, **autom
 ## 🎯 Current Focus
 
 - 🔐 Data Protection & Privacy in real-world scenarios  
-- ⚡ Cybersecurity consulting & risk assessment  
+- 📊 Cyber Risk Assessment & GDPR Compliance  
+- ⚡ Cybersecurity consulting  
 - 🤝 Collaborative automation and workflow management  
 - ☁️ Cloud & systems fundamentals  
 
@@ -49,24 +48,26 @@ My background combines hands-on experience with **distributed systems**, **autom
 
 ## 🏎 Formula Student Experience
 
-**E-Agile Trento Racing Team – IT & Automations** (1 month)  
+**E-Agle Trento Racing Team - IT & Automations** (1 month)  
 
-- 🛠️ Focus: Automation processes  
-- ⚡ Tools: n8n workflows, GitHub Projects & Issues  
-- 🤝 Skills: Teamwork, collaborative project coordination  
+- 🛠️ **Focus:** Streamlining team operations through intelligent automation and infrastructure management.
+- ⚡ **Key Contributions:** Designing and implementing n8n workflows for automated team onboarding, and conducting comprehensive database refactoring to optimize data flow.
+- 🤝 **Skills:** Teamwork, collaborative project coordination, workflow automation.
 
 ---
 
 ## 📂 Projects
 
-- [TCMS](https://github.com/beatricebalzarini/TCMS) – microservices-based monitoring system for railway sensors  
+- **[Privacy Preserving Data Publishing (PPDP)](https://github.com/beatricebalzarini/DataShield-PII)** - A complete data sanitization pipeline in Python focusing on GDPR compliance. Engineered a layered defense strategy using k-Anonymity, l-Diversity, and t-Closeness to safely anonymize the UCI Adult Dataset while preserving statistical utility for machine learning.
+
+- **[TCMS](https://github.com/beatricebalzarini/TCMS)** - Microservices-based monitoring system for railway sensors.  
   *(Technical foundation, distributed systems & practical problem solving)*  
 
 *More projects in progress…*
 
 ---
 
-## 📧 Contact
+## 📧 Contact details
 
 - LinkedIn: [linkedin.com/in/beatrice-balzarini](https://www.linkedin.com/in/beatrice-balzarini/)
 - 📧 Email: beatricebalzarini.bb@gmail.com  
@@ -75,4 +76,4 @@ My background combines hands-on experience with **distributed systems**, **autom
 
 ## ⚡ Aspiration 🌱
 
-Aspiring **privacy & cybersecurity consultant**, building practical skills in **data protection, GDPR compliance, and risk assessment** to transition into consultancy and real-world security roles.
+Aspiring **privacy & cybersecurity consultant**, building practical skills in **data protection, GDPR compliance, and cyber risk assessment** to transition into consultancy and real-world security roles.
