@@ -29,20 +29,34 @@ My background combines hands-on experience with **distributed systems**, **autom
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### Platforms & Tools
+### Cloud, Virtualization & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OpenNebula](https://img.shields.io/badge/OpenNebula-0099D8?style=for-the-badge&logo=opennebula&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF0000?style=for-the-badge&logo=qemu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+### Databases, Messaging & Frameworks
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-339966?style=for-the-badge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-FF6F00?style=for-the-badge&logo=mqtt&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### Workflow Automation, Developer Tools & Design
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Node-RED](https://img.shields.io/badge/Node--RED-FF0000?style=for-the-badge&logo=node-red&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -60,8 +74,11 @@ My background combines hands-on experience with **distributed systems**, **autom
 
 - **[Privacy Preserving Data Publishing (PPDP)](https://github.com/beatricebalzarini/DataShield-PII)** - A complete data sanitization pipeline in Python focusing on GDPR compliance. Engineered a layered defense strategy using k-Anonymity, l-Diversity, and t-Closeness to safely anonymize the UCI Adult Dataset while preserving statistical utility for machine learning.
 
+- **[Secure Microservices Cloud Infrastructure](https://github.com/Bea-Mike/fcc-ecommerce-poc)** - Engineered the infrastructure and network isolation for a microservices-based cloud environment, deploying a PostgreSQL database within a dedicated, heavily segregated virtual machine. Developed custom Bash automation to provision Layer 2 Linux bridges, manage kernel-level IP forwarding, and configure strict firewall routing to lock down internal database access. Built utilizing KVM/OpenNebula, MicroK8s, PostgreSQL, Bash, and Linux Networking.
+
+- **[TennisViz - Match Analysis Dashboard](https://github.com/martinagobbi/TennisViz)** - Engineered the frontend implementation and Python visualization logic for an interactive sports analytics dashboard analyzing the 2025 Roland Garros Final. Developed dynamic radar and line charts to track real-time momentum shifts and tactical dimensions, successfully translating complex mathematical criteria into clean UI components. 
+
 - **[TCMS](https://github.com/beatricebalzarini/TCMS)** - Microservices-based monitoring system for railway sensors.  
-  *(Technical foundation, distributed systems & practical problem solving)*  
 
 *More projects in progress…*
 
